@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32600220753",
+    "project_id": "super-mall-6238a",
+    "storage_bucket": "super-mall-6238a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32600220753:android:22c5e92f299faec40d4470",
+        "android_client_info": {
+          "package_name": "com.example.supermall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32600220753-jv89po5u58c93kk8vkkkk7njd2mraqua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supermall",
+            "certificate_hash": "bef36276691861895c7fe6705d47abe30c61001b"
+          }
+        },
+        {
+          "client_id": "32600220753-kh24kehpfvdognucm0gbbos0ptqs62c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpMmZtKVw7zfddShUnfivk6eyDynT_uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32600220753-kh24kehpfvdognucm0gbbos0ptqs62c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
